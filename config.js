@@ -1,0 +1,1 @@
+exports.DESKTOP_WIDTH = 1200;
